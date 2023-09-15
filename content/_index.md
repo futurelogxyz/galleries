@@ -1,5 +1,5 @@
 ---
-title: Futurelog Galleries
+title: 
 linktitle: Home
 description: log for the future
 #lastmod: 2023-07-05

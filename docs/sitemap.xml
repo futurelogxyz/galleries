@@ -2,24 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://futurelog.xyz/galleries/diagram/</loc>
+    <loc>http://futurelog.xyz/galleries/travel/</loc>
     <lastmod>2023-04-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://futurelog.xyz/galleries/life/</loc>
   </url><url>
     <loc>http://futurelog.xyz/galleries/art/</loc>
   </url><url>
+    <loc>http://futurelog.xyz/galleries/travel/citywalk/</loc>
+    <lastmod>2023-04-01T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://futurelog.xyz/galleries/</loc>
     <lastmod>2023-04-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://futurelog.xyz/galleries/diagram/mindmap/</loc>
-    <lastmod>2023-04-01T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://futurelog.xyz/galleries/diagram/drawio/</loc>
-    <lastmod>2023-01-12T00:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://futurelog.xyz/galleries/diagram/excalidraw/</loc>
-    <lastmod>2023-01-12T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://futurelog.xyz/galleries/about/</loc>
   </url><url>
